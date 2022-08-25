@@ -1,4 +1,2 @@
 # 2027theab.github.io
-hello
-pickles are delicious
-aanya is depressing
+hello i love pickles
